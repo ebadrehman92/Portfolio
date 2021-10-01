@@ -11,3 +11,6 @@ Brief summary about myself with picture.
 When links are clicked it navigates to the corresponding sections.
 
 A screen shot of my first assigned project and two other homework assignments along with their corresponding repositories.
+
+# Link
+https://ebadrehman92.github.io/Portfolio/
